@@ -5,3 +5,4 @@ d = 14
 print("binary is ",a,"\nOctal is ",b,"\nhexa is ",c)
 print(hex(d))
 print(1e3)
+
